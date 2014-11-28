@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Learn git branch.
 I create a new branch.
+stash
 
