@@ -7,4 +7,4 @@ I create a new branch.
 stash
 ceshi
 origin dev
-Learn OSChina
+Learn OSChinaGit
